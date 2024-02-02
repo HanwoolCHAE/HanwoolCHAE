@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=ZeroToHero&desc=by.Hanwool&fontSize=90)
+---
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=HanwoolCHAE)](https://github.com/HanwoolCHAE)
+---
+<img src = '폴더명/파일명.jpg'></img>
+#  #Bunnies 
+---
 # Hi there 👋
 ## Hi there 👋
 ### Hi there 👋
