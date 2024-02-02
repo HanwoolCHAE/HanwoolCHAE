@@ -2,7 +2,7 @@
 ---
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=HanwoolCHAE)](https://github.com/HanwoolCHAE)
 ---
-<img src = 'GitStudy/IMG_0010.jpg'></img>
+<img src='GitStudy/IMG_0010.JPG'></img>
 #  #Bunnies 
 ---
 # Hi there 👋
